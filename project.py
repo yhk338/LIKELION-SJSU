@@ -124,3 +124,5 @@ class BudgetPlanner:
 bp = BudgetPlanner()
 bp.welcomeMessage()
 bp.View()
+
+faowijefoijaseojfaosdvoajsdoifjaoijsdofija
